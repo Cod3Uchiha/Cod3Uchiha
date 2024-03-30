@@ -17,9 +17,6 @@ I'm open to collaborating on projects that involve HTML and JavaScript. If you h
 ## 📫 Get in Touch
 
 - GitHub: [Cod3Uchiha](https://github.com/Cod3Uchiha)
-- LinkedIn: (if applicable)
-- Twitter: (if applicable)
-- Portfolio: (if applicable)
 - Email: (cod3Uchiha@gmail.com)
 
 ## 😄 Fun Fact
