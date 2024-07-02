@@ -24,3 +24,5 @@ I'm open to collaborating on projects that involve HTML and JavaScript. If you h
 I believe that the best websites are not just functional, but also tell a story and create memorable experiences for the users.
 
 Let's connect, collaborate, and create amazing things together! 🌟
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Cod3Uchiha
