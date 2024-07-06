@@ -39,7 +39,7 @@ I'm open to collaborating on projects that involve HTML and JavaScript. If you h
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum.&hearts;++;i+am+Cod3Uchiha+A+Passionate+Front-End+Developer,;Engineering+Student,;My+Hobby+Is+Coding,;Active+Learner/Researcher..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=i+am+Cod3Uchiha+A+Passionate+Front-End+Developer,;Engineering+Student,;My+Hobby+Is+Coding,;Active+Learner/Researcher..<3"></a>
 </p>
 
 
@@ -48,7 +48,7 @@ I'm open to collaborating on projects that involve HTML and JavaScript. If you h
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Cod3Uchiha&label=Profile%20views&color=0e75b6&style=flat" alt="naveeddogar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Cod3Uchiha&label=Profile%20views&color=0e75b6&style=flat" alt="Cod3Uchiha" /> </p>
 
 
 
@@ -65,7 +65,7 @@ I'm open to collaborating on projects that involve HTML and JavaScript. If you h
 
 
 
-<a href="http://wa.me/+263785028126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="255698101622" height="30" width="40" /></a>
+<a href="http://wa.me/+263785028126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="263785028126" height="30" width="40" /></a>
 
 </p>
 
@@ -79,5 +79,3 @@ I'm open to collaborating on projects that involve HTML and JavaScript. If you h
 I believe that the best websites are not just functional, but also tell a story and create memorable experiences for the users.
 
 Let's connect, collaborate, and create amazing things together! 🌟
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Cod3Uchiha)](https://github.com/ryo-ma/github-profile-trophy)
