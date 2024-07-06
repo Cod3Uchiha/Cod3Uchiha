@@ -17,8 +17,10 @@ I'm open to collaborating on projects that involve HTML and JavaScript. If you h
 
 ## 📊ＳＴＡＴＳ
 
-
+<p align="center">
+  
 ![Cod3Uchiha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cod3Uchiha&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&show_icons=true)
+</p>
 
 <p align="center">
   <a href="https://github.com/Cod3Uchiha"><img src="https://github-readme-streak-stats.herokuapp.com?user=Cod3Uchiha&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /></a>
