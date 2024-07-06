@@ -16,14 +16,13 @@ I'm open to collaborating on projects that involve HTML and JavaScript. If you h
 
 *📊 Stats*
 
-<a href="https://github.com/Cod3Uchiha"><img src="https://github-readme-streak-stats.herokuapp.com?user=Cod3Uchiha&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /></a>
-
-<a href="https://github.com/Cod3Uchiha"><img  alt="Xcelsama's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Cod3Uchiha?cardType=github&theme=github-dark&preferLogin=true" />
-
-<a href="https://github.com/Cod3Uchiha"><img src="https://github-profile-trophy.vercel.app/?username=Cod3Uchiha&theme=radical&margin-w=20&no-bg=true&no-frame=false" />
-
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=i+am+Cod3Uchiha+A+Passionate+Front-End+Developer,;Engineering+Student,;My+Hobby+Is+Coding,;Active+Learner/Researcher..<3"></a>
-
+<div align="center">
+    <a href="https://github.com/Cod3Uchiha"><img src="https://github-readme-streak-stats.herokuapp.com?user=Cod3Uchiha&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /></a>
+    <a href="https://github.com/Cod3Uchiha"><img  alt="Xcelsama's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Cod3Uchiha?cardType=github&theme=github-dark&preferLogin=true" />
+    <a href="https://github.com/Cod3Uchiha"><img src="https://github-profile-trophy.vercel.app/?username=Cod3Uchiha&theme=radical&margin-w=20&no-bg=true&no-frame=false" />
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=i+am+Cod3Uchiha+A+Passionate+Front-End+Developer,;Engineering+Student,;My+Hobby+Is+Coding,;Active+Learner/Researcher..<3"></a>
+</div>
+      
 ---
 
 - 🌱 I’m currently learning *Coding*
