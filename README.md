@@ -1,6 +1,6 @@
-# 🌸 Cod3 Uchiha 🌸
+# Cod3 Uchiha
 
-![Slice of Life Anime](https://get.wallhere.com/photo/Shinra-Devil-Kusakabe-Shinra-Kusakabe-Shinra-Arrow-Fire-Force-Demon-face-demon-infernal-giovanni-Enen-no-Shouboutai-anime-anime-boys-anime-girls-Plague-plague-doctors-2251892.jpg)
+![my p logo](https://get.wallhere.com/photo/Shinra-Devil-Kusakabe-Shinra-Kusakabe-Shinra-Arrow-Fire-Force-Demon-face-demon-infernal-giovanni-Enen-no-Shouboutai-anime-anime-boys-anime-girls-Plague-plague-doctors-2251892.jpg)
 
 ---
 
