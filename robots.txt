@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cod3uchiha.com/sitemap.xml
