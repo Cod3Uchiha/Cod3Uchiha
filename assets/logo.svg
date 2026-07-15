@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="84" viewBox="0 0 420 84" role="img" aria-labelledby="title">
+  <title id="title">Cod3Uchiha</title>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#8B5CF6"/><stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="7" width="70" height="70" rx="20" fill="#111827" stroke="url(#g)" stroke-width="3"/>
+  <path d="M24 30 14 42l10 12M50 30l10 12-10 12M43 23 31 61" fill="none" stroke="url(#g)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="92" y="51" fill="#F5F7FF" font-family="Arial,Helvetica,sans-serif" font-size="35" font-weight="800" letter-spacing="1">Cod3Uchiha</text>
+  <circle cx="344" cy="42" r="5" fill="#22D3EE"/>
+</svg>
